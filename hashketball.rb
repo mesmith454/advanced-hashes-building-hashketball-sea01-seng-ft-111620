@@ -77,7 +77,7 @@ def game_hash
         :assits => 1,
         :steals => 2,
         :blocks => 7,
-        :slam_dunks => 1 
+        :slam_dunks => 2 
         }, 
         {
         :player_name => "Alan Anderson",
