@@ -179,11 +179,11 @@ def team_colors (team_name)
 end
 
 
-def team_names
-  game_hash.collect do |team, team_details_hash|
+ame_hash.collect do |team, team_details_hash|
     team_details_hash[:name] 
   end
-end
+enddef team_names
+  g
 
 
 
